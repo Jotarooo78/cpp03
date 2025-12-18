@@ -17,6 +17,6 @@ class ScavTrap : virtual public ClapTrap {
         
         ScavTrap(std::string name);
         void guardGate();
-};
+    };
 
 #endif
